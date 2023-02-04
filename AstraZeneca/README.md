@@ -1,0 +1,1 @@
+[This course](https://edu.rsc.org/resources/advanced-medicinal-chemistry/1035.article) material gives real-life examples of drug discovery and information on the drug discovery process through an industrial context, produced by Dr Ray Leslie of NTU and AstraZeneca.
