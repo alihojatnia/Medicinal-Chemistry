@@ -4,6 +4,6 @@ Medicinal chemistry is an interdisciplinary field that combines chemistry, pharm
 ### Papers
 **MAP fingerprint - Design and Documentation**\
 *One molecular fingerprint to rule them all: drugs, biomolecules, and the metabolome Alice Capecchi, Daniel Probst & Jean-Louis Reymond*\
-[10.1186/s13321-020-00445-4](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00445-4)
-[github](https://github.com/reymond-group/map4)
+*[10.1186/s13321-020-00445-4](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00445-4)*\
+*[[github](https://github.com/reymond-group/map4)](https://github.com/reymond-group/map4)*
 
