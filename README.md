@@ -11,7 +11,7 @@ Medicinal chemistry is an interdisciplinary field that combines chemistry, pharm
 ### Books
 *An Introduction to Medicinal Chemistry*\
 *An Introduction to Medicinal Chemistry FIFTH EDITION Graham L. Patrick*
-*[Medicinal Chemistry](https://uogqueensmcf.com/wp-content/uploads/2020/BA%20Modules//Pharmacy/Year%20II%20(semester%202)/Medicinal%20Chemistry%20I/Reference%20books/An%20Introduction%20to%20Medicinal%20Chemistry%205th%20ed%20-%20Graham%20L.%20Patrick%20(OUP,%202013).pdf)
+- [Medicinal Chemistry](https://uogqueensmcf.com/wp-content/uploads/2020/BA%20Modules//Pharmacy/Year%20II%20(semester%202)/Medicinal%20Chemistry%20I/Reference%20books/An%20Introduction%20to%20Medicinal%20Chemistry%205th%20ed%20-%20Graham%20L.%20Patrick%20(OUP,%202013).pdf)
 
 
 ### Pharma AI
