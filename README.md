@@ -15,5 +15,6 @@ Medicinal chemistry is an interdisciplinary field that combines chemistry, pharm
 
 ###
 
-[https://github.com/kochgroup/intro_pharma_ai]"Introduction to Artificial Intelligence"
+[https://github.com/kochgroup/intro_pharma_ai]
+"Introduction to Artificial Intelligence"
 This repository contains a collection of Jupyter Notebooks, which can be used to teach pharmaceutical and chemistry students the basics of Deep Learning. No prior coding knowledge is required. These Notebooks are on their own not sufficient to properly convey the knowledge, instructors need to prepare accompanying lectures. These notebooks are also not designed to teach students to train neural networks without any aid. Rather they aim to teach about the workings of neural networks through code completion.
