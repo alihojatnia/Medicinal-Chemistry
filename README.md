@@ -9,7 +9,7 @@ Medicinal chemistry is an interdisciplinary field that combines chemistry, pharm
 
 - [DMPNN , Analyzing Learned Molecular Representations for Property Prediction](https://arxiv.org/pdf/1904.01561.pdf)
 
- - [Receptors, Neurotransmitter]([https://www.wormatlas.org/neurotransmitterstable.htm](https://www.ncbi.nlm.nih.gov/mesh?Db=mesh&Cmd=DetailsSearch&Term=%22Receptors,+Neurotransmitter%22%5BMeSH+Terms%5D))
+ - [Receptors, Neurotransmitter](https://www.ncbi.nlm.nih.gov/mesh?Db=mesh&Cmd=DetailsSearch&Term=%22Receptors,+Neurotransmitter%22%5BMeSH+Terms%5D)
 Cell surface receptors bind signaling molecules released by neurons and convert these signals into intracellular changes influencing the behavior of cells. Neurotransmitter is used here in its most general sense, including not only messengers that act to regulate ion channels but also those which act on second messenger systems and those which may act at a distance from their release sites. Included are receptors for neuromodulators, neuroregulators, neuromediators, and neurohumors, whether or not located at synapses.
 
 
