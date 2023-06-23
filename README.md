@@ -11,7 +11,7 @@ Medicinal chemistry is an interdisciplinary field that combines chemistry, pharm
 - [Molecular similarity perception based on machine-learning models](https://zenodo.org/record/6472293)
   Molecular similarity is an particularly important notion for chemical legislation, specifically in the evaluation process for orphan drugs (i.e., drugs for rare diseases).
 
-  -[SPICE](https://www.nature.com/articles/s41597-022-01882-6), A Dataset of Drug-like Molecules and Peptides for Training Machine Learning Potentials. [dataset](https://zenodo.org/record/7338495)
+- [SPICE](https://www.nature.com/articles/s41597-022-01882-6), A Dataset of Drug-like Molecules and Peptides for Training Machine Learning Potentials. [dataset](https://zenodo.org/record/7338495)
 
 
   
