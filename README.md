@@ -11,14 +11,7 @@ Medicinal chemistry is an interdisciplinary field that combines chemistry, pharm
 - [Molecular similarity perception based on machine-learning models](https://zenodo.org/record/6472293)
   Molecular similarity is an particularly important notion for chemical legislation, specifically in the evaluation process for orphan drugs (i.e., drugs for rare diseases).
 
-- [SPICE](https://www.nature.com/articles/s41597-022-01882-6), A Dataset of Drug-like Molecules and Peptides for Training Machine Learning Potentials. [dataset](https://zenodo.org/record/7338495)
 
-
-  
-
- - [Receptors, Neurotransmitter](https://www.ncbi.nlm.nih.gov/mesh?Db=mesh&Cmd=DetailsSearch&Term=%22Receptors,+Neurotransmitter%22%5BMeSH+Terms%5D)
-Cell surface receptors bind signaling molecules released by neurons and convert these signals into intracellular changes influencing the behavior of cells. Neurotransmitter is used here in its most general sense, including not only messengers that act to regulate ion channels but also those which act on second messenger systems and those which may act at a distance from their release sites. Included are receptors for neuromodulators, neuroregulators, neuromediators, and neurohumors, whether or not located at synapses.
-- [A neurotransmitter](https://www.ebi.ac.uk/chebi/searchId.do?chebiId=25512) is a signaling molecule secreted by a neuron to affect another cell across a synapse.The cell receiving the signal, or target cell, may be another neuron, but could also be a gland or muscle cell.Neurotransmitters are released from synaptic vesicles into the synaptic cleft where they are able to interact with neurotransmitter receptors on the target cell. The neurotransmitter's effect on the target cell is determined by the receptor it binds to. Many neurotransmitters are synthesized from simple and plentiful precursors such as amino acids, which are readily available and often require a small number of biosynthetic steps for conversion. Neurotransmitters are essential to the function of complex neural systems. The exact number of unique neurotransmitters in humans is unknown, but more than 100 have been identified. Common neurotransmitters include glutamate, GABA, acetylcholine, glycine and norepinephrine.
 
 
 -----------------------------------------------------------------------------------------------------------------------------
@@ -34,3 +27,13 @@ Cell surface receptors bind signaling molecules released by neurons and convert 
 This repository contains a collection of Jupyter Notebooks, which can be used to teach pharmaceutical and chemistry students the basics of Deep Learning. No prior coding knowledge is required. These Notebooks are on their own not sufficient to properly convey the knowledge, instructors need to prepare accompanying lectures. These notebooks are also not designed to teach students to train neural networks without any aid. Rather they aim to teach about the workings of neural networks through code completion.
 
 - [https://github.com/xbresson/CS6208_2023/blob/main/codes/labs_lecture09/01_generate_molecular_datasets.ipynb]  Generate QM9 dataset for PyTorch and DGL by Xavier Bresson
+--------------------------------------------------------------------------------------------------------------------------------
+### Database
+- [REAL](https://enamine.net/compound-collections/real-compounds/real-database)
+  The REAL Database is one of the ways to explore the REAL Compounds. It is a classical database of enumerated structures. The database is a tool to find new hit molecules using large-scale virtual screening and to search for analogs of your hit molecules. The REAL Database is accessible as SMILES, SDF, and it is searchable on Enaminestore. The current release of the REAL database comprises over 6B molecules which comply with Ro5 and Veber criteria: MW≤500, SlogP≤5, HBA≤10, HBD≤5, RotBonds≤10, and TPSA≤140.
+
+  - [SPICE](https://www.nature.com/articles/s41597-022-01882-6), A Dataset of Drug-like Molecules and Peptides for Training Machine Learning Potentials. [dataset](https://zenodo.org/record/7338495)
+
+ - [Receptors, Neurotransmitter](https://www.ncbi.nlm.nih.gov/mesh?Db=mesh&Cmd=DetailsSearch&Term=%22Receptors,+Neurotransmitter%22%5BMeSH+Terms%5D)
+Cell surface receptors bind signaling molecules released by neurons and convert these signals into intracellular changes influencing the behavior of cells. Neurotransmitter is used here in its most general sense, including not only messengers that act to regulate ion channels but also those which act on second messenger systems and those which may act at a distance from their release sites. Included are receptors for neuromodulators, neuroregulators, neuromediators, and neurohumors, whether or not located at synapses.
+- [A neurotransmitter](https://www.ebi.ac.uk/chebi/searchId.do?chebiId=25512) is a signaling molecule secreted by a neuron to affect another cell across a synapse.The cell receiving the signal, or target cell, may be another neuron, but could also be a gland or muscle cell.Neurotransmitters are released from synaptic vesicles into the synaptic cleft where they are able to interact with neurotransmitter receptors on the target cell. The neurotransmitter's effect on the target cell is determined by the receptor it binds to. Many neurotransmitters are synthesized from simple and plentiful precursors such as amino acids, which are readily available and often require a small number of biosynthetic steps for conversion. Neurotransmitters are essential to the function of complex neural systems. The exact number of unique neurotransmitters in humans is unknown, but more than 100 have been identified. Common neurotransmitters include glutamate, GABA, acetylcholine, glycine and norepinephrine.
