@@ -8,6 +8,8 @@ Medicinal chemistry is an interdisciplinary field that combines chemistry, pharm
 *[github](https://github.com/reymond-group/map4)*
 
 - [DMPNN , Analyzing Learned Molecular Representations for Property Prediction](https://arxiv.org/pdf/1904.01561.pdf)
+- [Molecular similarity perception based on machine-learning models](https://zenodo.org/record/6472293)
+  Molecular similarity is an particularly important notion for chemical legislation, specifically in the evaluation process for orphan drugs (i.e., drugs for rare diseases).
 
  - [Receptors, Neurotransmitter](https://www.ncbi.nlm.nih.gov/mesh?Db=mesh&Cmd=DetailsSearch&Term=%22Receptors,+Neurotransmitter%22%5BMeSH+Terms%5D)
 Cell surface receptors bind signaling molecules released by neurons and convert these signals into intracellular changes influencing the behavior of cells. Neurotransmitter is used here in its most general sense, including not only messengers that act to regulate ion channels but also those which act on second messenger systems and those which may act at a distance from their release sites. Included are receptors for neuromodulators, neuroregulators, neuromediators, and neurohumors, whether or not located at synapses.
