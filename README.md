@@ -10,8 +10,7 @@ Medicinal chemistry is an interdisciplinary field that combines chemistry, pharm
 - [DMPNN , Analyzing Learned Molecular Representations for Property Prediction](https://arxiv.org/pdf/1904.01561.pdf)
 - [Molecular similarity perception based on machine-learning models](https://zenodo.org/record/6472293)
   Molecular similarity is an particularly important notion for chemical legislation, specifically in the evaluation process for orphan drugs (i.e., drugs for rare diseases).
-
-
+- [Yin-yang in drug discovery](https://www.frontiersin.org/articles/10.3389/fddsv.2023.1222655/full)rethinking de novo design and development of predictive models. Chemical and biological data play a vital role in drug discovery, and there is a growing focus on finding meaningful relationships between chemical structures and biological activity. With the rise of predictive machine and deep learning methods, the quality and balance of data, including the inclusion of negative data, are crucial for effective de novo compound design and classification models in drug discovery.
 
 
 -----------------------------------------------------------------------------------------------------------------------------
